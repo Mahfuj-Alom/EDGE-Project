@@ -20,8 +20,8 @@ It works like a secure `.env` vault but also supports file encryption.
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/filecrypt.git
-cd filecrypt
+git clone https://github.com/Mahfuj-Alom/EDGE-Project.git
+cd EDGE-Project
 ```
 
 ### 2. Create a Virtual Environment (optional but recommended)
@@ -121,3 +121,4 @@ Secrets are stored securely inside `secrets.enc` (encrypted JSON).
 
 
 MIT License – feel free to use and modify.
+
